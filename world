@@ -1,3 +1,4 @@
+acct-group/libvirt
 app-admin/eclean-kernel
 app-admin/pass
 app-admin/sudo
@@ -7,6 +8,7 @@ app-editors/emacs
 app-editors/nano
 app-emulation/docker
 app-emulation/qemu
+app-emulation/virt-manager
 app-eselect/eselect-repository
 app-i18n/fcitx5
 app-i18n/fcitx5-gtk
@@ -17,15 +19,10 @@ app-misc/ranger
 app-misc/tmux
 app-portage/eix
 app-shells/zsh
-app-text/goldendict
 app-text/zathura
 app-text/zathura-pdf-poppler
 dev-lang/go
-dev-libs/libvterm
-dev-libs/tdlib
-dev-util/rust-analyzer
 dev-vcs/git
-games-action/minecraft-launcher
 media-gfx/feh
 media-gfx/flameshot
 media-gfx/sxiv
@@ -35,13 +32,12 @@ media-sound/spotify
 media-video/mpv
 net-fs/nfs-utils
 net-misc/dhcpcd
-net-misc/ntp
 net-wireless/wpa_supplicant
 sys-boot/systemd-boot
+sys-firmware/edk2-ovmf
 sys-fs/dosfstools
 sys-fs/ncdu
 sys-fs/zfs
-sys-fs/zfs-kmod
 sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
@@ -49,6 +45,7 @@ sys-process/htop
 www-client/firefox
 x11-apps/xsetroot
 x11-drivers/xf86-video-amdgpu
+x11-misc/barrier
 x11-misc/picom
 x11-misc/rofi
 x11-terms/alacritty

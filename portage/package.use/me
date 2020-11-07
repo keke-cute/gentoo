@@ -1,0 +1,10 @@
+*/* PYTHON_TARGETS: -python2_7 -python3_7 python3_8
+app-admin/pass zsh-completion
+media-video/ffmpeg x264 v4l X
+app-emulation/qemu static-user spice usb usbredir
+app-editors/emacs gui xft dynamic-loading png cairo svg jpeg
+media-libs/freetype png X
+x11-wm/dwm savedconfig xinerama
+app-text/ghostscript-gpl -l10n_zh-CN
+dev-lang/rust rls
+x11-misc/barrier gui
