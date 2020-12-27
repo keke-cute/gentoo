@@ -1,0 +1,13 @@
+diff --git a/lib/portage/util/file_copy/__init__.py b/lib/portage/util/file_copy/__init__.py
+index 3d9b745..9f84d57 100644
+--- a/lib/portage/util/file_copy/__init__.py
++++ b/lib/portage/util/file_copy/__init__.py
+@@ -30,7 +30,4 @@ def _optimized_copyfile(src, dst):
+ 		_file_copy(src_file.fileno(), dst_file.fileno())
+ 
+ 
+-if _file_copy is None:
+-	copyfile = shutil.copyfile
+-else:
+-	copyfile = _optimized_copyfile
++copyfile = shutil.copyfile

@@ -2,7 +2,10 @@ app-i18n/fcitx5::gentoo-zh
 app-i18n/fcitx5-gtk::gentoo-zh
 app-i18n/fcitx5-qt::gentoo-zh
 app-i18n/fcitx5-rime::gentoo-zh
+app-i18n/fcitx5-chinese-addons::gentoo-zh
+app-i18n/libime::gentoo-zh
 x11-libs/xcb-imdkit::gentoo-zh
 app-i18n/cldr-emoji-annotation::gentoo-zh
 dev-libs/tdlib::gentoo-zh
 dev-util/rust-analyzer::leonardohn 
+x11-themes/paper-icon-theme::jorgicio

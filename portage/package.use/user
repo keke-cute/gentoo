@@ -1,8 +1,0 @@
-app-admin/pass zsh-completion
-media-video/ffmpeg x264 v4l X
-app-emulation/qemu static-user
-app-editors/emacs gui xft dynamic-loading png cairo svg jpeg
-media-libs/freetype png X
-x11-wm/dwm savedconfig xinerama
-app-text/ghostscript-gpl -l10n_zh-CN
-dev-lang/rust rls
