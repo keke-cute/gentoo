@@ -1,0 +1,7 @@
+*/* PYTHON_TARGETS: -python2_7 -python3_7 python3_8
+*/* PYTHON_SINGLE_TARGET: -python3_6 -python3_7 python3_8
+*/* PHP_TARGETS: -php7-2 -php7-3 php7-4
+app-emulation/qemu spice
+www-apps/nextcloud -sqlite postgres
+net-p2p/qbittorrent -X -dbus webui
+net-misc/aria2 bittorrent
