@@ -1,0 +1,5 @@
+# /etc/exports: NFS file systems being exported.  See exports(5).
+#/mnt/media/tv *(insecure,rw,sync,no_subtree_check,crossmnt,fsid=0)
+/mnt/media/adult *(insecure,rw,sync,no_subtree_check,crossmnt,fsid=0)
+/mnt/media/tv *(insecure,rw,sync,no_subtree_check)
+/mnt/media/animation *(insecure,rw,sync,no_subtree_check)
