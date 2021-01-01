@@ -1,0 +1,1 @@
+/sbin/zpool import -lR /mnt/media toshiba
